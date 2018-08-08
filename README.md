@@ -1,2 +1,2 @@
 # PartPlanAPI
-Java API fro Party Plan project.
+Java API for Party Plan project.
